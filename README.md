@@ -9,9 +9,6 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=Surya-2k4&color=red)&nbsp;
-[![GitHub Surya-2k4](https://img.shields.io/github/followers/Surya-2k4?label=follow&style=social)](https://github.com/Surya-2k4)&nbsp;
-
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="35px">  &nbsp;  <b>About Me</b>
 --
 💡   Hello everyone, I'm pursuing an MCA with a strong passion for technology and collaboration.
