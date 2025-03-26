@@ -22,7 +22,7 @@
 
 💬  Let's connect for discussions, projects, or networking.
 
-✉️  You can reach me at suryanatarajan04@gmail.com. I'll reply promptly.
+✉️  You can reach me at suryan.24mca@kongu.edu, I'll reply promptly.
 
 -----
 ### 📫 &nbsp; How to reach me:
